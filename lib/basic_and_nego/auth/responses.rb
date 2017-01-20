@@ -3,7 +3,7 @@ module BasicAndNego
     module Responses
 
       def challenge
-        ["Negotiate", "Basic"]
+        ["Negotiate"]
       end
 
       def unauthorized
